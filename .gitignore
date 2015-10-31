@@ -42,4 +42,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 bower_components/
-/nbproject/
+<<<<<<< HEAD
+nbproject/
+=======
+nbproject/
+>>>>>>> origin/master
