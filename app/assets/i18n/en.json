@@ -1,6 +1,6 @@
 {
   "dashboard": {
-    "WELCOME": "Bienvenidos {{appName}}"
+    "WELCOME": "Bienvenido a {{appName}}"
   },
   "topbar": {
     "messages": {
